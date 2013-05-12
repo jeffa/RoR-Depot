@@ -1,0 +1,9 @@
+== The Depot Application
+
+Example from Agile Web Development With Rails (4th ed.)
+
+== Use cases
+
+* The buyer uses Depot to browse the products we have to sell, select some to purchase, and supply the information needed to create an order.
+
+* The seller uses Depot to maintain a list of products to sell, to determine the orders that are awaiting shipping, and to mark orders as shipped.
