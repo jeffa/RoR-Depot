@@ -5,3 +5,4 @@ rvm:
 before_install:
   - bundle install
   - rake db:migrate
+  - rake db:seed
